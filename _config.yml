@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               John's Blog
+tagline:             'tagline'
+description:         'Hello World'
+url:                 https://johnkwong.github.io/blog/
+baseurl:             '/blog'
+paginate:            5
+
+# About/contact
+author:
+  name:              John Kwong
+  url:               https://johnkwong.github.io/blog/
+  email:             jkfc0212@gmail.com
+
+# Custom vars
+
