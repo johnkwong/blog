@@ -1,12 +1,3 @@
-- slug: jekyll
-  name: Jekyll
-
-- slug: documentation
-  name: Documentation
-
-- slug: examples
-  name: Examples
-
 - slug: database
   name: Database
 
