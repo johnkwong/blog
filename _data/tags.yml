@@ -6,3 +6,21 @@
 
 - slug: examples
   name: Examples
+
+- slug: database
+  name: Database
+
+- slug: data-mining
+  name: Data Mining
+
+- slug: java
+  name: Java
+
+- slug: linux
+  name: Linux
+
+- slug: javascript
+  name: Javascript
+
+- slug: other
+  name: Other
