@@ -4,10 +4,10 @@
 permalink:           pretty
 
 # Setup
-title:               John's Blog
-tagline:             'tagline'
-description:         'Hello World'
-url:                 https://johnkwong.github.io/blog/
+title:               香港程式人雜記
+tagline:             '用程式改變生活'
+description:         ''
+url:                 https://johnkwong.github.io/blog
 baseurl:             '/blog'
 paginate:            5
 
@@ -18,4 +18,3 @@ author:
   email:             jkfc0212@gmail.com
 
 # Custom vars
-
