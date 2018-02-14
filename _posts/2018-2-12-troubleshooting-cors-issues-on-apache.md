@@ -3,7 +3,6 @@ layout: post
 title: Troubleshooting CORS Issues On Apache
 tags: [linux]
 ---
-
 Sometime I got this errors from Chrome browser. This is a cross-domain issue. To solve this , we need to edit .htaccess file.
 
 Failed to load https://example.com: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://abc.com' is therefore not allowed access.
