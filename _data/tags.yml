@@ -13,5 +13,11 @@
 - slug: javascript
   name: Javascript
 
+- slug: algorithm
+  name: Algorithm
+
+- slug: git
+  name: Git
+
 - slug: other
   name: Other

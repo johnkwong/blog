@@ -19,8 +19,7 @@ var url = 'https://abc.com/api/v1/product/' ;
 request.open("POST", url);
 request.send();
 ```
-
-GET Method with Header
+Sending HTTP GET request with Header
 ```
 var request = new XMLHttpRequest();
 var url = 'https://abc.com/api/v1/product/' + id ;
@@ -28,9 +27,8 @@ request.open('GET', url, true);
 request.setRequestHeader("Authorization", "Bearer " + access_token);
 request.send();
 ```
-POST Method with Header
+Sending HTTP POST request with Header
 ```
-POST Method
 var request = new XMLHttpRequest();
 var url = 'https://abc.com/api/v1/product/' ;
 request.open("POST", url);
